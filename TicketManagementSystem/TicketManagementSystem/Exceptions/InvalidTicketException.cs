@@ -1,5 +1,6 @@
 ﻿using System;
-namespace TicketManagementSystem
+
+namespace TicketManagementSystem.Exceptions
 {
     public class InvalidTicketException : Exception
     {

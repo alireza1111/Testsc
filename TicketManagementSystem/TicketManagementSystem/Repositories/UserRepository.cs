@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Data.SqlClient;
+using TicketManagementSystem.Models;
 
-namespace TicketManagementSystem
+namespace TicketManagementSystem.Repositories
 {
     public class UserRepository : IDisposable
     {
